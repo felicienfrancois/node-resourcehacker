@@ -1,4 +1,4 @@
 node-resourcehacker
 ===================
 
-Node wrapper of Resource Hacker (windows executable resource editor)
+Node wrapper of Resource Hacker

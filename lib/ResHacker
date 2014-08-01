@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var ra = require('./ResHacker.js')
+ra.call(ra, process.argv.slice(2));

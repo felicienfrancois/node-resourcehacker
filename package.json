@@ -1,0 +1,41 @@
+{
+  "name": "resourcehacker",
+  "version": "3.6.0",
+  "description": "Node wrapper to compile inno setup scripts (.iss)",
+  "main": "lib/ResHacker.js",
+  "bin": {
+    "resourcehacker": "./lib/ResHacker"
+  },
+  "homepage": "https://github.com/felicienfrancois/node-resourcehacker",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felicienfrancois/node-resourcehacker.git"
+  },
+  "author": {
+    "name": "Felicien Francois",
+    "email": "felicien@tweakstyle.com",
+    "url": "http://tweakstyle.com"
+  },
+  "bugs": {
+    "url": "https://github.com/felicienfrancois/node-resourcehacker/issues"
+  },
+  "licenses": [
+    {
+      "type": "Freeware",
+      "url": "https://github.com/felicienfrancois/node-resourcehacker/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "readmeFilename": "README.md",
+  "keywords": [
+    "resource",
+    "hacker",
+    "editor",
+    "windows",
+    "gruntplugin",
+    "node",
+    "cli"
+  ]
+}
