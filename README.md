@@ -16,9 +16,18 @@ Works if [wine](www.winehq.org) is installed
 
 Note: even if it is fully command line, it requires a X server to work.
 You can use [Xvfb](http://en.wikipedia.org/wiki/Xvfb) :
-`xvfb-run resourcehacker args`
-`xvfb-run node yourscript.js`
-`xvfb-run grunt yourtask`
+
+```shell
+xvfb-run resourcehacker args
+```
+
+```shell
+`xvfb-run node yourscript.js
+```
+
+```shell
+xvfb-run grunt yourtask
+```
 
 ### Usage
 
