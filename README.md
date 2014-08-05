@@ -14,8 +14,8 @@ Works natively on windows
 
 Works if [wine](www.winehq.org) is installed
 
-Note: even if it is fully command line, it require a GUI ($DISPLAY) to work.
-On server distribution, you can use [Xvfb](http://en.wikipedia.org/wiki/Xvfb) :
+Note: even if it is fully command line, it requires a X server to work.
+You can use [Xvfb](http://en.wikipedia.org/wiki/Xvfb) :
 `xvfb-run resourcehacker args`
 `xvfb-run node yourscript.js`
 `xvfb-run grunt yourtask`
