@@ -1,8 +1,3 @@
-/*
- * node-innosetup-compiler
- * https://github.com/felicienfrancois/node-resourcehacker
- */
-
 'use strict';
 
 module.exports = function(grunt) {
