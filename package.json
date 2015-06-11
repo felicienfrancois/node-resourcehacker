@@ -28,6 +28,9 @@
   "engines": {
     "node": ">= 0.8.0"
   },
+  "scripts": {
+    "postinstall" : "node scripts/install.js"
+  },
   "readmeFilename": "README.md",
   "keywords": [
     "resource",
@@ -37,5 +40,8 @@
     "gruntplugin",
     "node",
     "cli"
-  ]
+  ],
+  "dependencies": {
+    "adm-zip": "^0.4.7"
+  }
 }
