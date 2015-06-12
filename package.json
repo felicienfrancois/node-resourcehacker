@@ -1,6 +1,6 @@
 {
   "name": "resourcehacker",
-  "version": "3.6.0",
+  "version": "4.0.0",
   "description": "Node wrapper of Resource Hacker (windows executable resource editor)",
   "main": "lib/ResHacker.js",
   "bin": {
@@ -21,7 +21,7 @@
   },
   "licenses": [
     {
-      "type": "Freeware",
+      "type": "MIT",
       "url": "https://github.com/felicienfrancois/node-resourcehacker/blob/master/LICENSE"
     }
   ],
