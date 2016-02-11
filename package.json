@@ -1,6 +1,6 @@
 {
   "name": "resourcehacker",
-  "version": "4.2.5",
+  "version": "4.2.51",
   "description": "Node wrapper of Resource Hacker (windows executable resource editor)",
   "main": "lib/ResHacker.js",
   "bin": {
